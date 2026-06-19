@@ -15,7 +15,7 @@ body {
 }
 
 .postcard-header {
-	display: flex;
+	display:flex;
 }
 
 .postcard-header img {
@@ -24,6 +24,6 @@ body {
 }
 
 .postcard-header h1 {
-	width: 100%;
-	margin: 50px;
+	width: 200px;
+	margin: 0;
 }
