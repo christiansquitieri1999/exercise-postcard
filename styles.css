@@ -20,7 +20,7 @@ body {
 
 .postcard-header {
 	display: flex;
-	justify-content: flex-end; /*here if I remove this line it will be on left side but also both  title and image are moving both*/
+	justify-content: space-between; /*here if I remove this line it will be on left side but also both  title and image are moving both*/
 	padding: 10px;
 }
 
@@ -61,5 +61,3 @@ button {
 	background-color: #8a8a8a;
 	padding: 5px 10px;
 }
-
-
