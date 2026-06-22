@@ -7,4 +7,4 @@
 app.tar.gz
 config.json
 vscode_queue.json
-!.vscode
+!.vscode.lean/
